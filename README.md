@@ -1,4 +1,4 @@
-CIRB VCLOUD Terraform Repository
+VCLOUD Terraform Repository
 ==================
 ## Installing the Terraform on Local Windows
 ### Install Chocolatey
