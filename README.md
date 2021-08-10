@@ -1,4 +1,4 @@
-VCLOUD Terraform Repository
+Terraform Repository (VCLOUD - AZURE)
 ==================
 ## Installing the Terraform on Local Windows
 ### Install Chocolatey
