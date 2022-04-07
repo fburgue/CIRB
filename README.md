@@ -18,6 +18,15 @@ PS C:\> Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePoi
 - Install Git https://git-scm.com/
 
 
+### Install VSCODE (Visual Code Editor)
+URL: https://code.visualstudio.com/Download
+
+### Install VIM
+- Open Powershell in Administrator Context:
+- Type: choco install vim
+
+
+
 ### CMD:
 ```
 az login
